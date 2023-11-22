@@ -1,4 +1,4 @@
-# desafio-felipao
+# Desafio Felipão
 Desafio da DIO proposto pelo Felipão - Nível do Herói
 
 ## Descrição
